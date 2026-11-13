@@ -1,0 +1,13 @@
+# Compilación (el .exe se sube en Releases, no al repositorio)
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Salida del programa
+recortadas/
